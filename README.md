@@ -1,6 +1,6 @@
 - Hi, I’m @Harm0niWAV
 - I am a musician and DJ, and I started learning programming because I hate myself
-- I’m currently learning Python
+- I’m currently learning Python and JavaScript
 - if you wanna contact me, then go outside and ask yourself why you'd willingly talk to me
 - Pronouns: She/They
 - nobody likes me so I don't go out much and prefer the online world where people care about me
