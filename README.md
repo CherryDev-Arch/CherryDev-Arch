@@ -1,11 +1,20 @@
-- Hi, I’m DJ Razorblade
-- I am a musician and DJ, and I started learning programming because I hate myself
-- I’m currently learning Python and JavaScript
-- if you wanna contact me, then go outside and ask yourself why you'd willingly talk to me
-- Pronouns: She/They
-- nobody likes me, so I don't go out much and prefer the online world where people care about me
+こんにちは、初めまして! 私の名前はDJ Razorblade! A casual musician, turntablist, and learning programmer! I hope to collaborate and have fun with everyone!
+I'm a year 11 Digital Technology and Music student from New Zealand who has been learning Python3!
 
-<!---
-Harm0niWAV/Harm0niWAV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages~
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+
+### Hobbies
+I work as a musician, so in my free time, I experiment with FL Studio 24, along with practicing my turntablism with Serato DJ Lite or Rekordbox 7!
+I do code occasionally, but it's more a side thing that might help me make some money along my journey!
+I play the guitar, electric and acoustic, the turntable, and I make music digitally too!
+
+### Spoken Languages
+I am a native speaker of Danish and English, and I have been learning Japanese for around a year or two,
+though I prefer you converse with me in English, thank you.
+
+### Contacting me
+If you wish to contact me, I am @dj_razorblade on discord!
+Alternatively, email me at djrazorblade.contact@gmail.com
+
+Hope to have fun here on GitHub coding!
