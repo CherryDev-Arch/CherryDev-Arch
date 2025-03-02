@@ -10,8 +10,11 @@ I do code occasionally, but it's more a side thing that might help me make some 
 I play the guitar, electric and acoustic, the turntable, and I make music digitally too!
 
 ### Spoken Languages
-I am a native speaker of Danish and English, and I have been learning Japanese for around a year or two,
+I am a native speaker of English, and I have been learning Japanese for around a year or two,
 though I prefer you converse with me in English, thank you.
+
+### Career
+I am (as you've likely already read) a producer, DJ, and programmer. I also do small bits of digital art.
 
 ### Contacting me
 If you wish to contact me, I am @dj_razorblade on discord!
