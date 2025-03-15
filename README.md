@@ -1,8 +1,8 @@
-### An introduction to me!
-
-Hello, こんにちは，Привет, Bonjour, and Hola everyone!  My name is Joshua, but you may call me Necro for short, or just Nec.
-I'm an L1 Digital Technology student, learning to use Python3 and HTML5.
-I'm studying software engineering, web design, and development.
+<h2 align="center">Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
+<h2 align="center">My name is Joshua, but you may call me Necro for short, or just Nec.</h2>
+  
+I'm an L1 Digital Technology student, learning to use Python3 and HTML5.<br>
+I'm studying software engineering, web design, and development.<br>
 
 
 ### 🌐 Languages
