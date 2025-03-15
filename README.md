@@ -5,14 +5,12 @@ I'm a Transfem Level 1 High-school Digital Technology student, learning to use P
 I'm studying software engineering, web design, and development.<br>
 I also participate in the yearly DMC World DJ Championships as much as I can!<br>
 
-### 🌐 Languages
-
-### 📁 Software Engineering / Developing
+### 📁 Software Engineering / Developing Languages
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### 🛜 Web Design
+### 🌐 Web Design Languages
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
