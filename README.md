@@ -1,5 +1,5 @@
 <h2 align="center">㊙️ Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
-<h2 align="center">🈲 My name is Joshua, but you may call me Necro for short, or just Nec (Alias).</h2>
+<h2 align="center">🈲 My name is Joshua, but you may call me DJ Razorblade, or Sunaa (Alias).</h2>
   
 I'm a Transfem Level 1 High-school Digital Technology student, learning to use Python3 and HTML5.<br>
 I'm studying software engineering, web design, and development.<br>
