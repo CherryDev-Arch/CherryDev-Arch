@@ -32,10 +32,17 @@ As you have read before, I am studying software engineering, web design, and dev
 
 ### 📞 Contacting me
 
-If you wish to contact me, I am @dj_razorblade on discord!
+If you wish to contact me, I am @dj_moth on discord!
 Alternatively, email me at djrazorblade.contact@gmail.com
 
 ### 💻 Softwares I use
 
-Web Design and Software Engineering/Developing - Visual Studio Code
-Testing Web Design code - Microsoft Edge
+Code editor - Visual Studio Code
+<hr>
+IDE - Visual Studio
+<hr>
+Tracking changes - Git
+<hr>
+Pushing changes and reviewing changes - GitHub Desktop
+<hr>
+Web testing - Opera Air (My main browser)
