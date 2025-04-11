@@ -38,11 +38,11 @@ Alternatively, email me at djrazorblade.contact@gmail.com
 ### 💻 Softwares I use
 
 Code editor - Visual Studio Code
-<hr>
+<br>
 IDE - Visual Studio
-<hr>
+<br>
 Tracking changes - Git
-<hr>
+<br>
 Pushing changes and reviewing changes - GitHub Desktop
-<hr>
+<br>
 Web testing - Opera Air (My main browser)
