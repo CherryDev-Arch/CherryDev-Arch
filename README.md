@@ -1,5 +1,5 @@
 <h2 align="center">㊙️ Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
-<h2 align="center">🈲 My name is Joshua, but you may call me DJ Moth, or simply just Moth! (Alias).</h2>
+<h2 align="center">🈲 My name is Joshua, but you may call me ターミナル装置 (Terminl Device), or simply just Terminl! (Alias).</h2>
   
 I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python3 and HTML5.<br>
 I'm studying software engineering, web design, and development.<br>
@@ -32,7 +32,7 @@ As you have read before, I am studying software engineering, web design, and dev
 
 ### 📞 Contacting me
 
-If you wish to contact me, I am @dj_moth on discord!
+If you wish to contact me, I am @terminl_ on discord!
 Alternatively, email me at djrazorblade.contact@gmail.com
 
 ### 💻 Softwares I use
