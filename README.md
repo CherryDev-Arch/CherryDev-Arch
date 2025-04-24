@@ -44,5 +44,3 @@ IDE - Visual Studio
 Tracking changes - Git
 <br>
 Pushing changes and reviewing changes - GitHub Desktop
-<br>
-Web testing - Opera Air (My main browser)
