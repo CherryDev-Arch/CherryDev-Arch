@@ -35,7 +35,7 @@ I also participate in the yearly DMC World DJ Championships as much as I can!<br
 
 ### ☁️ Cloud Computing and 🤖 SysAdmin
 
-I use MS Azure for cloud computing but couldn't find a badge that just said "Microsoft Azure"
+I use MS Azure for cloud computing but couldn't find a badge that just said "Microsoft Azure".
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
