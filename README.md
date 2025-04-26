@@ -1,9 +1,8 @@
 <h2 align="center">㊙️ Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
 <h2 align="center">🈲 My name is Joshua, but you may call me ターミナル装置 (Terminl Device), or simply just Terminl! (Alias).</h2>
   
-I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python3 and HTML5.<br>
-I'm studying software engineering, web design, and development.<br>
-I also participate in the yearly DMC World DJ Championships as much as I can!<br>
+I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python and Powershell.<br>
+I'm studying software engineering, cloud computing, sysadmin, powershell, and system engineering!<br>
 
 ### 📁 Software Engineering / Developing Languages
 
