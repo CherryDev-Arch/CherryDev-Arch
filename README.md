@@ -4,6 +4,10 @@
 I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python and Powershell.<br>
 I'm studying software engineering, cloud computing, sysadmin, powershell, and system engineering!<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TERMINL-SOCHI&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
 ### 📁 Software Engineering / Developing Languages
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
