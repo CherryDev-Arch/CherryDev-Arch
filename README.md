@@ -1,5 +1,6 @@
 <h2 align="center">㊙️ Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
 <h2 align="center">🈲 My name is Joshua, but you may call me ターミナル装置 (Terminl Device), or simply just Terminl! (Alias).</h2>
+<h5 align="center">Half the badges don't have links, so don't bother with them. They're just for display.</h5>
   
 I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python and Powershell.<br>
 I'm studying software engineering, cloud computing, sysadmin, powershell, and system engineering!<br>
