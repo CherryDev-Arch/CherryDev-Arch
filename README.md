@@ -1,12 +1,12 @@
 <h2 align="center">㊙️ Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
-<h2 align="center">🈲 My name is Joshua, but you may call me PowerShell as an alias.</h2>
+<h2 align="center">🈲 My name is Joshua, but you may call me Terminl as an alias.</h2>
 
-I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python and Powershell.<br>
-I'm studying software engineering, cloud computing, sysadmin, powershell, and system engineering!<br>
+I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python, C/C++, and JS/TS.<br>
+I'm studying backend software development<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=TERMINL-SOCHI&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
-### 📁 Software Engineering / Developing Languages
+### 📁 Software Dev / Backend Dev languages
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -50,7 +50,7 @@ I'm a DJ and beatboxer, and occasionally a vocalist, but I also enjoy games in m
 
 ### 📝 Career
 
-As you have read before, I am studying software engineering, web design, and development.
+As you have read before, I am studying backend software development.
 
 ### 📞 Socials I have (find me yourself)
 
