@@ -45,8 +45,7 @@ though I prefer you converse with me in English, thank you.
 
 ### 📔 Hobbies
 
-I do music production as a side project, and I'm also a turntablist (DJ). Though I would prefer to spend my free time learning.
-When I feel stressed, I will often sing 
+I'm a DJ and beatboxer, and occasionally a vocalist, but I also enjoy games in my free time.
 
 ### 📝 Career
 
@@ -61,6 +60,5 @@ As you have read before, I am studying software engineering, web design, and dev
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dX5sVZhQke)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/terminl-sochi.bsky.social)
 
-### Things I wish I was cool enough to use
-
-[![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)](https://www.ibm.com/quantum/qiskit)
+### Thanks for checking out my README!
+I will add more to my GitHub portfolio as I learn, but for a while it will be quite empty.
