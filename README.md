@@ -11,7 +11,6 @@ For backend, I primarily work with Python + Flask, and I'm learning about things
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
 [![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
-pretend it just says SQL
 
 ### Other languages I work with
 
