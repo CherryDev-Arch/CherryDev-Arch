@@ -4,7 +4,7 @@
 I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python, C/C++, and JS/TS.<br>
 I'm studying backend software development<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TERMINL-SOCHI&theme=dracula&locale=jp&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=TERMINL-SOCHI&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 ### 📁 Software Dev / Backend Dev languages
 
