@@ -1,28 +1,24 @@
 <h2 align="center">㊙️ Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
 <h2 align="center">🈲 My name is Joshua, but you may call me Terminl as an alias.</h2>
 
-I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python, C/C++, and JS/TS.<br>
-I'm studying backend software development<br>
+I'm a Transfem NCEA Level 1 High-school Digital Technology student, teachning myself backend development<br>
+For backend, I primarily work with Python + Flask, and I'm learning about things like SQL and APIs
 
 <img src="https://github-readme-stats.vercel.app/api?username=TERMINL-SOCHI&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
-### 📁 Software Dev / Backend Dev languages
+### 📁 Backend Dev
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
+[![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+pretend it just says SQL
+
+### Other languages I work with
+
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### 🌐 Web Design Languages
-
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-GH Pages is not a language but i don't care
 
 ### 🗺️ Browsers
 
