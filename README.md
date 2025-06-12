@@ -49,7 +49,7 @@ I'm a DJ and beatboxer, and occasionally a vocalist, but I also enjoy games in m
 
 As you have read before, I am studying backend software development.
 
-### 📞 Socials I have (find me yourself)
+### 📞 Socials
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-miller-56a63a355/)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/TERMINL_SOCHI)
