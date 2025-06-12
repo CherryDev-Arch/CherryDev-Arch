@@ -4,11 +4,12 @@
 I'm a Transfem NCEA Level 1 High-school Digital Technology student, learning to use Python, C/C++, and JS/TS.<br>
 I'm studying backend software development<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TERMINL-SOCHI&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=TERMINL-SOCHI&theme=dracula&locale=jp&hide_border=false" height="150" alt="stats graph"  />
 
 ### 📁 Software Dev / Backend Dev languages
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
