@@ -45,6 +45,7 @@ I’m sharpening my skills in these areas:
 
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 
 ### 🔤 Spoken Languages
 
