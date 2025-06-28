@@ -3,7 +3,7 @@
 
 I'm a Transfem NCEA Level 1 High-school Digital Technology student, teaching myself programming<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TERMINL-SOCHI&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=CherryDev-Arch&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 ### 📁 Currently used languages
 
