@@ -38,6 +38,7 @@ I'm a Transfem NCEA Level 1 High-school Digital Technology student, teaching mys
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
+Note: I do not use Arch right now. When I do get around to using it in a few years time, i will remove this messsage. For now, I specifically use Windows and Mint. I can't comment out the Arch badge because Markdown doesn't have badges. Thank you
 
 ### 🔤 Spoken Languages
 
