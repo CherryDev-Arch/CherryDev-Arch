@@ -1,7 +1,7 @@
 <h2 align="center">㊙️ Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
-<h2 align="center">🈲 I am CherryDev. A musician, lead developer of Vibrarch OS, and introvert</h2>
+<h2 align="center">🈲 I am CherryDev. A Muslim beatboxer/DJ, lead developer of Vibrarch OS, and introvert</h2>
 
-I'm a Transfem NCEA Level 1 High-school Digital Technology student, teaching myself programming<br>
+I'm a Muslim Transfem NCEA Level 1 High-school Digital Technology student, teaching myself programming<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=CherryDev-Arch&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
@@ -42,8 +42,8 @@ Note: I do not use Arch right now. When I do get around to using it in a few yea
 
 ### 🔤 Spoken Languages
 
-I am a native speaker of English, and I have been learning Japanese for around a year or two,
-though I prefer you converse with me in English, thank you.
+I am a native speaker of English, and I'm in the process of learning Arabic (Emirati, Classical, and Fusha/MSA)
+Please only talk to me in English though.
 
 ### 📔 Hobbies
 
