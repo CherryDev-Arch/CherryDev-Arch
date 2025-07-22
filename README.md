@@ -30,7 +30,7 @@ I'm a Muslim Transfem NCEA Level 1 High-school Digital Technology student, teach
 ### 💻 Used OS'
 
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com)
-[]()
+[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/nz/macos/macos-sequoia/)
 
 ### 🔤 Spoken Languages
 
