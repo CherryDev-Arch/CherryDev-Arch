@@ -24,6 +24,7 @@ I'm a Muslim Transfem NCEA Level 1 High-school Digital Technology student, teach
 ### ✏️ Editors/IDEs
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
 
 
 ### 💻 Used OS'
