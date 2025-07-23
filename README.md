@@ -1,4 +1,4 @@
-<h2 align="center">㊙️ Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
+<h2 align="center">Assalamualaikum and hello there everyone!</h2>
 <h2 align="center">🈲 I'm CherryDev. A Muslim programmer, developer, and beatboxer on the side! Pleasure to meet you!</h2>
 
 I'm a Muslim High-school drop-out, teaching myself programming, full-stack, software development, game design and development, and mobile application development.
@@ -66,4 +66,4 @@ As you have read before, I am studying backend software development.
 
 ### Thanks for checking out my README!
 I will add more to my GitHub portfolio as I learn, but for a while it will be quite empty.
-Watch out for when I add 
+Watch out for when I add more projects!
