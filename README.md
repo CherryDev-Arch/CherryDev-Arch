@@ -1,4 +1,4 @@
-<h2 align="center">Assalamualaikum and hello there everyone!</h2>
+<h1 align="center">Assalamualaikum and hello there everyone!</h1>
 <h2 align="center">🈲 I'm CherryDev. A Muslim programmer, developer, and beatboxer on the side! Pleasure to meet you!</h2>
 
 I'm a Muslim High-school drop-out, teaching myself programming, full-stack, software development, game design and development, and mobile application development.
@@ -8,11 +8,14 @@ I'm a Muslim High-school drop-out, teaching myself programming, full-stack, soft
 
 ### 📁 Currently used languages (Still learning all of them)
 
-Software development
+Software development (Desktop and mobile)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
 
 Full Stack
 
@@ -21,6 +24,7 @@ Full Stack
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
+[![SQL](https://img.shields.io/badge/SQL-%230070D5.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 Game Development
 
@@ -29,6 +33,7 @@ Game Development
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
+
 ### ✏️ Softwares / Tools
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -36,10 +41,14 @@ Game Development
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)](https://www.opengl.org/)
 [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 ### 💻 Used OS'
 
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/nz/macos/macos-sequoia/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-nz/windows)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
 
 ### 🔤 Spoken Languages
 
@@ -51,7 +60,7 @@ I'm a beatboxer, and I also enjoy games in my free time, because they help me le
 
 ### 📝 Career
 
-As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely, and occasionally livestreaming some coding sessions to streaming platform, Twitch and video sharing platform, YouTube.
+As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely, and occasionally livestreaming some coding sessions to streaming platform, Twitch and video sharing platform, YouTube. I'm based in Helsinki, Finland, and I hope to work with remotely with companies around the world, and I hope to one day live the life I want to live, as a niqabi Muslim, and a developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
 
 ### 📞 Socials
 
@@ -63,5 +72,20 @@ As previously stated, I'm teaching myself all kinds of development, and I aim to
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/terminl-sochi.bsky.social)
 
 ### Thanks for checking out my README!
+
 I will add more to my GitHub portfolio as I learn, but for a while it will be quite empty.
 Watch out for when I add more projects!
+
+### Projects
+
+Nothing to show yet, but I will be working on some projects soon, so stay tuned!
+
+### Contributions
+
+If you want to contribute to my projects, feel free to fork them and submit a pull request
+All my projects are open source, so you can use them for your own projects, but please give credit where credit is due.
+
+### License
+
+All my projects are licensed under the MIT License unless otherwise stated.
+Feel free to use, modify, and distribute my code as long as you include the original license file in your project.
