@@ -8,14 +8,14 @@ I'm a Muslim High-school drop-out, teaching myself programming, full-stack, soft
 
 ### 📁 Currently used languages (Still learning all of them)
 
-### Software development and backend
+# Software development and backend
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 
-### Full Stack
+# Full Stack
 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -23,7 +23,7 @@ I'm a Muslim High-school drop-out, teaching myself programming, full-stack, soft
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 
-### Game Development
+# Game Development
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
@@ -39,21 +39,19 @@ I'm a Muslim High-school drop-out, teaching myself programming, full-stack, soft
 
 ### 💻 Used OS'
 
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/nz/macos/macos-sequoia/)
 
 ### 🔤 Spoken Languages
 
-I am a native speaker of English, and I'm in the process of learning Arabic (Emirati, Classical, and Fusha/MSA)
-Please only talk to me in English though.
+I am a native speaker of English, and I'm in the process of learning Arabic, and a bit of Finnish!
 
 ### 📔 Hobbies
 
-I'm a DJ and beatboxer, and occasionally a vocalist, but I also enjoy games in my free time.
+I'm a beatboxer, and I also enjoy games in my free time, because they help me learn and gather ideas for my own games.
 
 ### 📝 Career
 
-As you have read before, I am studying backend software development.
+As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely, and occasionally livestreaming some coding sessions to streaming platform, Twitch and video sharing platform, YouTube.
 
 ### 📞 Socials
 
