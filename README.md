@@ -5,7 +5,7 @@ I'm a Muslim Transfem NCEA Level 1 High-school Digital Technology student, teach
 
 <img src="https://github-readme-stats.vercel.app/api?username=CherryDev-Arch&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
-### 📁 Currently used languages (and OpenGL)
+### 📁 Currently used languages (Still learning all of them)
 
 ### Software development and backend
 
