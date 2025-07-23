@@ -1,7 +1,8 @@
 <h2 align="center">㊙️ Hello, こんにちは，Привет, Bonjour, and Hola everyone!</h2>
-<h2 align="center">🈲 I am CherryDev. A Muslim beatboxer/DJ, lead developer of Vibrarch OS, and introvert</h2>
+<h2 align="center">🈲 I'm CherryDev. A Muslim programmer, developer, and beatboxer on the side! Pleasure to meet you!</h2>
 
-I'm a Muslim Transfem NCEA Level 1 High-school Digital Technology student, teaching myself programming<br>
+I'm a Muslim High-school drop-out, teaching myself programming, full-stack, software development, game design and development, and mobile application development.
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=CherryDev-Arch&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
