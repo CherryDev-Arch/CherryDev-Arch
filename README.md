@@ -70,8 +70,6 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 ## 💻 Operating systems I work with
 
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/nz/macos/macos-sequoia/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-nz/windows)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ## 🌍 Spoken Languages
 
