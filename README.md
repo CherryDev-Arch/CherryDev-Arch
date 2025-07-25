@@ -1,5 +1,5 @@
 # Assalamualaikum and hello there everyone!
-# 🈲 I'm CherryDev. A Muslim programmer, developer, and beatboxer on the side! Pleasure to meet you!
+# 🈲 I'm CherryDev. A niqabi Muslim developer, and streamer! Pleasure to meet you!
 
 <img src="https://github-readme-stats.vercel.app/api?username=CherryDev-Arch&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
@@ -9,7 +9,7 @@ I'm a 15-year-old self-taught developer from New Zealand. I'm learning everythin
 
 I'm a closeted Muslim living in a difficult home environment, where my religion and gender identity aren't accepted. Despite this, I'm committed to learning and growing as a developer.
 
-I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech, and move to Finland — a place where I can live freely as myself.
+I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech, and move to Finland, the United Arab Emirates, or Greenland — places where I can live freely as myself.
 
 Until then, I'm learning every day, building personal projects (which I’ll share when they’re ready), and dreaming big.
 
