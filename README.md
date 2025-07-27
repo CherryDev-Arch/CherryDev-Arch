@@ -9,7 +9,7 @@ I'm a 15-year-old self-taught developer from New Zealand. I'm learning everythin
 
 I'm a young Muslim developer living in a difficult home environment, where my religion and gender identity aren't accepted. Despite this, I'm committed to learning and growing as a developer.
 
-I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech, and move to Sharjah in the United Arab Emirates — A place where I can live freely as myself and he close to my religion.
+I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech or work in the Dubai Silicone Oasis, and move to Sharjah in the United Arab Emirates — A place where I can live freely as myself and he close to my religion.
 
 Until then, I'm learning every day, building personal projects (which I’ll share when they’re ready), and dreaming big.
 
