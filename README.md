@@ -69,7 +69,14 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 ## 💻 Operating systems I work with
 
+### Actual work
+
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/nz/macos/macos-sequoia/)
+
+### For future projects
+
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://linuxmint.com/)
 
 ## 🌍 Spoken Languages
 
