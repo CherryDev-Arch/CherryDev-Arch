@@ -7,9 +7,9 @@
 
 I'm a 15-year-old self-taught developer from New Zealand. I'm learning everything from full-stack web development to mobile apps, games, and software. I code to create, express, and connect — all while staying grounded in my faith and community.
 
-I'm a closeted Muslim living in a difficult home environment, where my religion and gender identity aren't accepted. Despite this, I'm committed to learning and growing as a developer.
+I'm a young Muslim developer living in a difficult home environment, where my religion and gender identity aren't accepted. Despite this, I'm committed to learning and growing as a developer.
 
-I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech, and move to Finland, the United Arab Emirates, or Greenland — places where I can live freely as myself.
+I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech, and move to Sharjah in the United Arab Emirates — A place where I can live freely as myself and he close to my religion.
 
 Until then, I'm learning every day, building personal projects (which I’ll share when they’re ready), and dreaming big.
 
@@ -17,12 +17,12 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 - Learn more about full-stack web development, mobile app development, and game development.
 - Create my own projects and share them with the world.
-- Live alone somewhere, where I can live as myself and freely follow Islam
+- Live in Sharjah, UAE, where I can live as myself and freely follow Islam
 - Get a remote job in software development, so I can work from anywhere in the world.
 - Continue to improve my skills in programming and development.
 - Make games for people to enjoy, and software that helps people in their daily lives.
 
-## 📁 Currently used languages (Still learning all of them)
+## 📁 Currently used languages and frameworks (Still learning all of them)
 
 ### Most knowledged in
 
@@ -91,7 +91,7 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 ## 🌍 Spoken Languages
 
-I am a native speaker of English, currently learning Modern Standard Arabic and Finnish!
+I am a native speaker of English, currently learning Modern Standard Arabic!
 
 ## 📔 Hobbies
 
@@ -99,7 +99,7 @@ I'm a beatboxer, and I also enjoy games in my free time, because they help me le
 
 ## 📝 Career
 
-As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Helsinki, Finland, and I'd love to work remotely with companies around the world, and I hope to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
+As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Sharjah, and I'd love to work remotely with companies around the world, and I hope to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
 
 ## 🔗 Socials
 
