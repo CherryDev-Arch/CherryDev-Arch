@@ -17,7 +17,7 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 - Learn more about full-stack web development, mobile app development, and game development.
 - Create my own projects and share them with the world.
-- Live alone in Finland, where I can live as myself and freely follow Islam
+- Live alone somewhere, where I can live as myself and freely follow Islam
 - Get a remote job in software development, so I can work from anywhere in the world.
 - Continue to improve my skills in programming and development.
 - Make games for people to enjoy, and software that helps people in their daily lives.
