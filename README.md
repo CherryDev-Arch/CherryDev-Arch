@@ -18,7 +18,7 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 - Learn more about full-stack web development, mobile app development, and game development.
 - Create my own projects and share them with the world.
 - Live in Sharjah, UAE, where I can live as myself and freely follow Islam
-- Get a remote job in software development, so I can work from anywhere in the world.
+- Get a job in the Dubai Silicone Oasis or land a remote job as a developer.
 - Continue to improve my skills in programming and development.
 - Make games for people to enjoy, and software that helps people in their daily lives.
 
@@ -99,7 +99,7 @@ I'm a beatboxer, and I also enjoy games in my free time, because they help me le
 
 ## 📝 Career
 
-As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Sharjah, and I'd love to work remotely with companies around the world, and I hope to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
+As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Sharjah, and I want to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
 
 ## 🔗 Socials
 
