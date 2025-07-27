@@ -9,7 +9,7 @@ I'm a 15-year-old self-taught developer from New Zealand. I'm learning everythin
 
 I'm a young Muslim developer living in a difficult home environment, where my religion and gender identity aren't accepted. Despite this, I'm committed to learning and growing as a developer.
 
-I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech or work in the Dubai Silicone Oasis, and move to Sharjah in the United Arab Emirates — A place where I can live freely as myself and he close to my religion.
+I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech or work in the Dubai Silicon Oasis, and move to Sharjah in the United Arab Emirates — A place where I can live freely as myself and he close to my religion.
 
 Until then, I'm learning every day, building personal projects (which I’ll share when they’re ready), and dreaming big.
 
@@ -18,7 +18,7 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 - Learn more about full-stack web development, mobile app development, and game development.
 - Create my own projects and share them with the world.
 - Live in Sharjah, UAE, where I can live as myself and freely follow Islam
-- Get a job in the Dubai Silicone Oasis or land a remote job as a developer.
+- Get a job in the Dubai Silicon Oasis or land a remote job as a developer.
 - Continue to improve my skills in programming and development.
 - Make games for people to enjoy, and software that helps people in their daily lives.
 
