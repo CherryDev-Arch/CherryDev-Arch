@@ -119,7 +119,7 @@ Nothing to show yet, but I will be working on some projects soon, so stay tuned!
 
 ## 🤝 Contributions
 
-If you want to contribute to my projects, feel free to fork them and submit a pull request
+If you want to contribute to my projects, feel free to fork them and submit a pull request.
 All my projects are open source, so you can use them for your own projects, but please give credit where credit is due.
 
 ## Thanks for checking out my README!
