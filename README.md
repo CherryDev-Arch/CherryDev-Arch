@@ -9,7 +9,7 @@ I'm a 15-year-old self-taught developer from New Zealand. I'm learning everythin
 
 I'm a young Muslim developer living in a difficult home environment, where my religion and gender identity aren't accepted. Despite this, I'm committed to learning and growing as a developer.
 
-I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech or work in Greenland, and move to Qinngorput in the capital of the territory — A place where I can live freely as myself and practise my religion without fear.
+I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech or work in Makkah, Saudi Arabia — A place where I can live freely as myself and practise my religion without fear.
 
 Until then, I'm learning every day, building personal projects (which I’ll share when they’re ready), and dreaming big.
 
@@ -17,8 +17,8 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 - Learn more about full-stack web development, mobile app development, and game development.
 - Create my own projects and share them with the world.
-- Live in Qinngorput, Nuuk, Greenland, where I can live as myself and freely follow Islam
-- Get a job in Nuuk as a software developer or land a remote job as a developer.
+- Live in Makkah, Saudi Arabia, where I can live as myself and freely follow Islam
+- Get a job in Makkah as a software developer or land a remote job as a developer.
 - Continue to improve my skills in programming and development.
 - Make games for people to enjoy, and software that helps people in their daily lives.
 
@@ -102,7 +102,7 @@ I'm a beatboxer, and I also enjoy games in my free time, because they help me le
 
 ## 📝 Career
 
-As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Qinngorput, Nuuk, and I want to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
+As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Makkah, Saudi Arabia, the holy city of Islam and I want to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
 
 ## 🔗 Socials
 
