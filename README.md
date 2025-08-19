@@ -9,7 +9,7 @@ I'm a 15-year-old self-taught developer from New Zealand. I'm learning everythin
 
 I'm a young Muslim developer living in a difficult home environment, where my religion and gender identity aren't accepted. Despite this, I'm committed to learning and growing as a developer.
 
-I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech or work in Greenland, and move to Qinngorput in the capital of the territory — A place where I can live freely as myself and practise my religion without fear.
+I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get a MacBook, land a remote job in tech or work in Makkah, Saudi Arabia — A place where I can live freely as myself and practise my religion without fear.
 
 Until then, I'm learning every day, building personal projects (which I’ll share when they’re ready), and dreaming big.
 
@@ -17,8 +17,8 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 - Learn more about full-stack web development, mobile app development, and game development.
 - Create my own projects and share them with the world.
-- Live in Qinngorput, Nuuk, Greenland, where I can live as myself and freely follow Islam
-- Get a job in Nuuk as a software developer or land a remote job as a developer.
+- Live in Makkah, Saudi Arabia, where I can live as myself and freely follow Islam
+- Get a job in Makkah as a software developer or land a remote job as a developer.
 - Continue to improve my skills in programming and development.
 - Make games for people to enjoy, and software that helps people in their daily lives.
 
@@ -27,10 +27,10 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 ### Most knowledged in
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 
 ### Software development (Desktop and mobile)
 
@@ -43,10 +43,10 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 ### Full Stack
 
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![SQL](https://img.shields.io/badge/SQL-%230070D5.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
@@ -102,7 +102,7 @@ I'm a beatboxer, and I also enjoy games in my free time, because they help me le
 
 ## 📝 Career
 
-As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Qinngorput, Nuuk, and I want to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
+As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Makkah, Saudi Arabia, the holy city of Islam and I want to one day live the life I want to live, as a niqabi Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
 
 ## 🔗 Socials
 
