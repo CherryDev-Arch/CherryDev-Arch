@@ -1,5 +1,5 @@
 # Hello there everyone!
-# 🈲 I'm CherryDev. A pagan-druid developer, and streamer! Pleasure to meet you!
+# 🈲 I'm Yae Song Moon. A pagan-druid developer, beatboxer, and streamer! Pleasure to meet you!
 
 <img src="https://github-readme-stats.vercel.app/api?username=CherryDev-Arch&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
