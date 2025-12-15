@@ -1,15 +1,15 @@
 # Hello there everyone!
-# 🈲 I'm Layla. A muslim programmer and beatboxer! Pleasure to meet you!
+# 🈲 I'm Layla. A programmer and musician! Pleasure to meet you!
 
 <img src="https://github-readme-stats.vercel.app/api?username=CherryDev-Arch&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 ## 📌 About Me
 
-I'm a 15-year-old self-taught developer from New Zealand. I'm learning everything from full-stack web development to mobile apps, games, and software. I code to create, express, and connect — all while staying grounded in my faith with Islam, and my community.
+I'm a young self-taught developer from New Zealand. I'm teaching myself how to code so I can create software. I code to create, express, and connect — all while making music and sharing it with the world.
 
-I'm a young Muslim developer living in a difficult home environment, where my religion and gender identity aren't accepted. Despite this, I'm committed to learning and growing as a developer.
+I'm a young developer living in a difficult home environment, where my gender identity isn't accepted. Despite this, I'm committed to learning and growing as a developer.
 
-I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get nyself a MacBook, land a remote job in tech or work in Mecca, Kingdom of Saudi Arabia — A place where I can live freely as myself and practise my religion without fear.
+I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get myself a MacBook, land a remote job in tech or work in Tallinn, Estonia, or Helsinki, Finland — A place where I can live freely as myself and express myself through code and music.
 
 Until then, I'm learning every day, building personal projects (which I’ll share when they’re ready), and dreaming big.
 
@@ -17,14 +17,15 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 - Learn more about full-stack web development, mobile app development, and game development.
 - Create my own projects and share them with the world.
-- Live in Mecca, where I can live as myself and freely follow Islam
-- Get a job in Mecca as a software developer or land a remote job as a developer.
+- Live in Tallinn or Helsinki, where I can live as myself.
+- Get a job as a software developer or land a remote job as a developer.
 - Continue to improve my skills in programming and development.
 - Make games for people to enjoy, and software that helps people in their daily lives.
+- Creat software with personality, utilising the Frutiger Aero design aesthetic to give users some nostalgia of the Windows 7 and Vista era of the internet.
 
 ## 📁 Currently used languages and frameworks (Still learning all of them)
 
-### Most knowledged in
+### Most knowledgeable in
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -37,8 +38,6 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
 
 ### Full Stack
@@ -49,13 +48,6 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![SQL](https://img.shields.io/badge/SQL-%230070D5.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-
-### Game Development
-
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 ### Frameworks
 
@@ -102,15 +94,11 @@ I'm a beatboxer, and I also enjoy games in my free time, because they help me le
 
 ## 📝 Career
 
-As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video sharing platforms like Twitch and YouTube. I hope to eventually be based in Mecca, Kingdom of Saudi Arabia, and I want to one day live the life I want to live, as a Muslim developer. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
+As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video-sharing platforms like Twitch and YouTube. I hope to eventually be based in Tallinn or Helsinki, and I want to one day live the life I want to live, as a developer and artist. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
 
 ## 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-miller-56a63a355/)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/CherryDev)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://bsky.app/profile/yaesongmoon.bsky.social)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dX5sVZhQke)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/yaesongmoon.bsky.social)
+I would prefer to remain relatively anonymous, if you don't mind.
 
 ## 📂 Projects
 
@@ -123,5 +111,5 @@ All my projects are open source, so you can use them for your own projects, but 
 
 ## Thanks for checking out my README!
 
-I will add more to my GitHub portfolio as I learn, but for a while it will be quite empty.
+I will add more to my GitHub portfolio as I learn, but for a while, it will be quite empty.
 Watch out for when I add more projects!
