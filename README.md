@@ -86,7 +86,7 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 ## 🌍 Spoken Languages
 
-I am a native speaker of English, currently learning Finnish/Estonian, Kazakh, and I'm also creating my own language called Aerani!
+I am a native speaker of English, currently learning Finnish/Estonian, Persian, and I'm also creating my own language called Aerani!
 
 ## 📔 Hobbies
 
