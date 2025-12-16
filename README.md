@@ -9,7 +9,7 @@ I'm a young self-taught developer from New Zealand. I'm teaching myself how to c
 
 I'm a young developer living in a difficult home environment, where my gender identity isn't accepted. Despite this, I'm committed to learning and growing as a developer.
 
-I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get myself a MacBook, land a remote job in tech or work in Tallinn, Estonia, or Helsinki, Finland — A place where I can live freely as myself and express myself through code and music.
+I currently rely on school computers to code, and I use my phone at home to keep learning. One day, I hope to get myself a MacBook, land a remote job in tech or work in Tallinn, Estonia — A place where I can live freely as myself and express myself through code and music.
 
 Until then, I'm learning every day, building personal projects (which I’ll share when they’re ready), and dreaming big.
 
@@ -17,8 +17,8 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 - Learn more about full-stack web development, mobile app development, and game development.
 - Create my own projects and share them with the world.
-- Live in Tallinn or Helsinki, where I can live as myself.
-- Get a job as a software developer or land a remote job as a developer.
+- Live in Tallinn, a tech-heavy place where I can live as myself.
+- Get a job as a software developer or land a remote job as a developer. Or even just work independently.
 - Continue to improve my skills in programming and development.
 - Make games for people to enjoy, and software that helps people in their daily lives.
 - Creat software with personality, utilising the Frutiger Aero design aesthetic to give users some nostalgia of the Windows 7 and Vista era of the internet.
@@ -86,7 +86,7 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 ## 🌍 Spoken Languages
 
-I am a native speaker of English, currently learning Finnish/Estonian, Persian, and I'm also creating my own language called Aerani!
+I am a native speaker of English, currently learning Estonian, and I'm also creating my own language called Aerani!
 
 ## 📔 Hobbies
 
