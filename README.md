@@ -86,11 +86,11 @@ Until then, I'm learning every day, building personal projects (which I’ll sha
 
 ## 🌍 Spoken Languages
 
-I am a native speaker of English, currently learning Arabic, Persian, and Urdu!
+I am a native speaker of English, currently learning Finnish/Estonian, Kazakh, and I'm also creating my own language called Aerani!
 
 ## 📔 Hobbies
 
-I'm a beatboxer, and I also enjoy games in my free time, because they help me learn and gather ideas for my own games. I hope to one day compete in the Grand Beatbox Battle World League, or the DMC World DJ Championships, or even create games based on them.
+I'm a musician, and I also enjoy games in my free time, because they help me learn and gather ideas for software. I hope to one day compete in the Grand Beatbox Battle World League, or the DMC World DJ Championships, or even create games based on them. I also enjoy designing micronations, as they give me a sense of control and help me understand politics.
 
 ## 📝 Career
 
