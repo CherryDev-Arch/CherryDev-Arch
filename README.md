@@ -94,7 +94,7 @@ I'm a musician, and I also enjoy games in my free time, because they help me lea
 
 ## 📝 Career
 
-As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video-sharing platforms like Twitch and YouTube. I hope to eventually be based in Tallinn or Helsinki, and I want to one day live the life I want to live, as a developer and artist. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
+As previously stated, I'm teaching myself all kinds of development, and I aim to work remotely and occasionally livestream some coding sessions to streaming and video-sharing platforms like Twitch and YouTube. I hope to eventually be based in Tallinn, and I want to one day live the life I want to live, as a developer and artist. Who knows, maybe one day I will create my own kernel like Linus Torvalds.
 
 ## 🔗 Socials
 
